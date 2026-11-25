@@ -1,4 +1,4 @@
-![Genبيت Project unnamed](genbeit-unnamed.png)
+![Genبيت Project unnamed](unnamed.jpg)
 # Genبيت | Arabic Poetry Generation Using AI
 
 ## Project Overview
